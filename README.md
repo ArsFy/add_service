@@ -1,9 +1,9 @@
 # Add Linux Service
 
 ```
-curl -o- https://raw.githubusercontent.com/ArsFy/add_service/1.0/add.sh | bash
+curl -O https://raw.githubusercontent.com/ArsFy/add_service/1.0/add.sh && bash add.sh
 ```
 
 ```
-wget -qO- https://raw.githubusercontent.com/ArsFy/add_service/1.0/add.sh | bash
+wget https://raw.githubusercontent.com/ArsFy/add_service/1.0/add.sh && bash add.sh
 ```
